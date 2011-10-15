@@ -1,0 +1,1 @@
+A monad for finite deterministic automata, translated from C# into Literate Haskell.
